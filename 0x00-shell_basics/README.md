@@ -11,3 +11,4 @@ Delete the directory my_first_directory that is in the /tmp directory
 changes the working directory to the previous one
 Print current ,parent and boot directory contents
 prints the type of the file named iamafile which is in /tmp
+Create a symbolic link to /bin/ls, named __ls__
