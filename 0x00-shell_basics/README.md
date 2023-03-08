@@ -13,3 +13,4 @@ Print current ,parent and boot directory contents
 prints the type of the file named iamafile which is in /tmp
 Create a symbolic link to /bin/ls, named __ls__
 14-copy_html:Copy HTML file from the current directory into the parent directory
+100-lets_move:moves all files beginning with an uppercase letter to the directory /tmp/u
