@@ -9,3 +9,4 @@
 8-James_Bond:Set no Permissions to owner and group but set full permissions to others
 9-John_Doe:Set the mode of the file hello
 10-mirror_permissions:Set the mode of the file hello the same as olleh’s mode
+11-directories_permissions:Add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
