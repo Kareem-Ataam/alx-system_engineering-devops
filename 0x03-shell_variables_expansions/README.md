@@ -9,3 +9,4 @@
 9-divide_and_rule:Print the result of POWER divided by DIVIDE
 10-love_exponent_breath:Display the result of BREATH to the power LOVE
 13-print_float:Print float number
+3-paths:Counth Pathes
