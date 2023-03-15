@@ -4,3 +4,4 @@
 4-global_variables:List environment variables
 5-local_variables:List all local variables and environment variables, and functions
 6-create_local_variable:Create a new local variable
+7-create_global_variable:Create a new global variable
