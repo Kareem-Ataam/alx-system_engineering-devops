@@ -10,3 +10,4 @@
 10-love_exponent_breath:Display the result of BREATH to the power LOVE
 13-print_float:Print float number
 3-paths:Counth Pathes
+11-binary_to_decimal:BTD
