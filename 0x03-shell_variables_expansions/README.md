@@ -11,3 +11,4 @@
 13-print_float:Print float number
 3-paths:Counth Pathes
 11-binary_to_decimal:BTD
+12-combinations:All Cominations
